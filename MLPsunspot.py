@@ -4,6 +4,9 @@
 Created on Wed Sep  4 12:56:40 2019
 
 @author: andrew
+
+Original by Dave Touretzky (modified by Nikolay Nikolaev, converted to python by Andrew Rice)
+https://www.cs.cmu.edu/afs/cs/academic/class/15782-f06/matlab/
 """
 import numpy as np
 import pandas as pd
